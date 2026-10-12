@@ -51,7 +51,7 @@
 - 🌐 **[IP-Lookup.org](https://www.ip-lookup.org/)** - IP lookup tool for finding geolocation, ISP, ASN, hostname, and other IP details.
 - ⚙️ [**Quttera Website Security API**](https://quttera.com/quttera-anti-malware-api-help) – API for malware detection, reputation checks, and website security analysis.
 - 📡 **[Wireshark](https://www.wireshark.org/)** – Network protocol analyzer for capturing and analyzing traffic.
-- 🌐 **[OWASP ZAP](https://www.zaproxy.org/)** – Web application security scanner and penetration testing proxy.
+- 📧 **[Tuta Mail](https://tuta.com/)** – Privacy-focused, end-to-end encrypted email service for secure communication.
 - 🔎 **[Nessus](https://www.tenable.com/products/nessus)** – Vulnerability assessment and security scanning platform.
 - 🌐 **[Impreza Host](https://impreza.host/)** – Privacy-focused hosting provider offering anonymous VPS and dedicated servers for security-conscious users and cybersecurity infrastructure.
 - 🩸 **[BloodHound](https://github.com/SpecterOps/BloodHound)** – Active Directory attack path and privilege relationship analysis tool.
@@ -393,6 +393,7 @@ The [Cybersecurity Bootcamp](https://www.academy.evolvesecurity.com/cybersecurit
 - 🌐 **[PROXY-SOLUTIONS.net](https://proxy-solutions.net)** - A proxy server provider providing IP addresses for proxy servers, internet service providers, and mobile devices in over 200 locations. Promo code for a 5% discount: Y1xpdOA8Xr.
 - 🖥️ **[OnionLand Hosting](https://onionlandhosting.com)** - OnionLand Hosting is a cryptocurrency-available Tor hidden-service hosting provider.
 - 🌐 **[Impreza Host](https://impreza.host/)** – Privacy-focused hosting provider offering anonymous VPS and dedicated servers for running security tools, labs, and privacy-oriented infrastructure.
+- 📧 **[Tuta Mail](https://tuta.com/)** – Secure, encrypted email service designed to protect user privacy and confidential communications.
 - 🐉 **[Kali Linux](https://www.kali.org/)** – Advanced penetration testing and security auditing OS.
 - 🦜 **[Parrot Security OS](https://www.parrotsec.org/)** – Security-focused OS for pentesting and privacy.
 - 🧑‍💻 **[BackBox](https://www.backbox.org/)** – Ubuntu-based Linux distro for penetration testing.

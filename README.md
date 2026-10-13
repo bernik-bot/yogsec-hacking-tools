@@ -89,6 +89,8 @@ The [Cybersecurity Bootcamp](https://www.academy.evolvesecurity.com/cybersecurit
 
 ## Information Gathering
 
+- 🌐 **[IP Geolocation](https://ipgeolocation.io/)** – IP geolocation API for retrieving IP address locations, ISP details, time zones, and network information.
+- 🔎 **[WhoisFreaks](https://whoisfreaks.com/)** – WHOIS and DNS lookup platform for domain registration details, historical WHOIS records, DNS information, and domain intelligence.
 - 🌐 **[IP-Lookup.org](https://www.ip-lookup.org/)** - IP lookup and intelligence tool for checking IP geolocation, ISP, organization, ASN, hostname, IP reputation, VPN/proxy detection, Whois information, and network details.
 - 🔎 **[Osintly](https://osint.ly/?utm_source=github&utm_medium=referral&utm_campaign=hacking_tools)** – All-in-one OSINT platform combining hundreds of search modules, investigation tools, public data sources, intelligence APIs, and collaborative workspaces in a single place.
 - 🌐 **[OnionLand Search](https://onionland.live)** Onionland Search is a deep-web search engine that indexes Tor onion services.
@@ -98,8 +100,6 @@ The [Cybersecurity Bootcamp](https://www.academy.evolvesecurity.com/cybersecurit
 - 🌍 **[ViewDNS.info](https://viewdns.info/)** – Comprehensive suite of Domain and IP Intelligence tools for domain research.
 - 🌐 **[IP2Location.io](https://www.ip2location.io/)** - IP geolocation and IP intelligence API for retrieving location, network, and other information associated with IP addresses.
 - 🛜 **[Nmap](https://nmap.org/)** – Network scanning and mapping tool.
-- 🌐 **[IP Geolocation](https://ipgeolocation.io/)** – IP geolocation API for retrieving IP address locations, ISP details, time zones, and network information.
-- 🔎 **[WhoisFreaks](https://whoisfreaks.com/)** – WHOIS and DNS lookup platform for domain registration details, historical WHOIS records, DNS information, and domain intelligence.
 - 🌐 **[ipapi.is](https://ipapi.is/)** - IP intelligence and geolocation service for identifying IP addresses, locations, ISPs, hosting providers, and VPN or proxy connections.
 - 🔎 **[ProxyDetect.live](https://proxydetect.live/)** - Proxy detection service for checking IP addresses and identifying potential proxies, VPNs, and other anonymization services.
 - 🕵️ **[OSINTNova](https://osintnova.com/)** – OSINTNova finds public information linked to usernames, emails, phone numbers, and more. It combines automated searches and AI-assisted reporting in one platform.

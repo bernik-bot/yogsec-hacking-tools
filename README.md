@@ -98,6 +98,8 @@ The [Cybersecurity Bootcamp](https://www.academy.evolvesecurity.com/cybersecurit
 - 🌍 **[ViewDNS.info](https://viewdns.info/)** – Comprehensive suite of Domain and IP Intelligence tools for domain research.
 - 🌐 **[IP2Location.io](https://www.ip2location.io/)** - IP geolocation and IP intelligence API for retrieving location, network, and other information associated with IP addresses.
 - 🛜 **[Nmap](https://nmap.org/)** – Network scanning and mapping tool.
+- 🌐 **[IP Geolocation](https://ipgeolocation.io/)** – IP geolocation API for retrieving IP address locations, ISP details, time zones, and network information.
+- 🔎 **[WhoisFreaks](https://whoisfreaks.com/)** – WHOIS and DNS lookup platform for domain registration details, historical WHOIS records, DNS information, and domain intelligence.
 - 🕵️ **[OSINTNova](https://osintnova.com/)** – OSINTNova finds public information linked to usernames, emails, phone numbers, and more. It combines automated searches and AI-assisted reporting in one platform.
 - 🌐 **[Check-Host](https://check-host.net/)** - Network monitoring and diagnostic tool for checking host availability, connectivity, ping, HTTP, TCP, and DNS from multiple locations.
 - 📊 **[Dato Capital](https://datocapital.com/)** – Business intelligence platform providing company information, corporate data, and business insights.

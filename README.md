@@ -91,6 +91,7 @@ The [Cybersecurity Bootcamp](https://www.academy.evolvesecurity.com/cybersecurit
 
 - 🌐 **[IP Geolocation](https://ipgeolocation.io/)** – IP geolocation API for retrieving IP address locations, ISP details, time zones, and network information.
 - 🔎 **[WhoisFreaks](https://whoisfreaks.com/)** – WHOIS and DNS lookup platform for domain registration details, historical WHOIS records, DNS information, and domain intelligence.
+- 🌍 **[APIFreaks](https://apifreaks.com/)** – API platform providing 100+ APIs across multiple categories, including WHOIS, DNS, IP intelligence, weather, currency, PDF tools, and screenshots for developers and automated workflows.
 - 🌐 **[IP-Lookup.org](https://www.ip-lookup.org/)** - IP lookup and intelligence tool for checking IP geolocation, ISP, organization, ASN, hostname, IP reputation, VPN/proxy detection, Whois information, and network details.
 - 🔎 **[Osintly](https://osint.ly/?utm_source=github&utm_medium=referral&utm_campaign=hacking_tools)** – All-in-one OSINT platform combining hundreds of search modules, investigation tools, public data sources, intelligence APIs, and collaborative workspaces in a single place.
 - 🌐 **[OnionLand Search](https://onionland.live)** Onionland Search is a deep-web search engine that indexes Tor onion services.

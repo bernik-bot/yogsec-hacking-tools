@@ -89,9 +89,9 @@ The [Cybersecurity Bootcamp](https://www.academy.evolvesecurity.com/cybersecurit
 
 ## Information Gathering
 
-- 🌐 **[IP Geolocation](https://ipgeolocation.io/)** – IP geolocation API for retrieving IP address locations, ISP details, time zones, and network information.
-- 🔎 **[WhoisFreaks](https://whoisfreaks.com/)** – WHOIS and DNS lookup platform for domain registration details, historical WHOIS records, DNS information, and domain intelligence.
-- 🌍 **[APIFreaks](https://apifreaks.com/)** – API platform providing 100+ APIs across multiple categories, including WHOIS, DNS, IP intelligence, weather, currency, PDF tools, and screenshots for developers and automated workflows.
+- 🌐 **[IP Geolocation](https://ipgeolocation.io/)** – IP geolocation and threat intelligence API for identifying accurate IP locations, Company, ASN, VPN/proxy/Tor usage, and potential IP security signals. Ideal for OSINT, network reconnaissance, and cybersecurity investigations.
+- 🔎 **[WhoisFreaks](https://whoisfreaks.com/)** –  Comprehensive domain WHOIS, historical WHOIS, and DNS intelligence API for tracking domain ownership records, registration timelines, nameservers, and registrar details. Ideal for brand protection, threat intelligence, domain research, and cybercrime investigations.
+- 🌍 **[APIFreaks](https://apifreaks.com/)** – A robust, high-performance API hub delivering 100+ real-time APIs across 20+ categories-including IP intelligence, domain lookups, email validation, timezone data, live weather, commodity pricing, PDF generation, web screenshots, and exchange rates. Built for enterprise scalability and developer speed, ApiFreaks powers modern financial platforms, multi-currency e-commerce applications, cybersecurity solutions, and automated business workflows.
 - 🌐 **[IP-Lookup.org](https://www.ip-lookup.org/)** - IP lookup and intelligence tool for checking IP geolocation, ISP, organization, ASN, hostname, IP reputation, VPN/proxy detection, Whois information, and network details.
 - 🔎 **[Osintly](https://osint.ly/?utm_source=github&utm_medium=referral&utm_campaign=hacking_tools)** – All-in-one OSINT platform combining hundreds of search modules, investigation tools, public data sources, intelligence APIs, and collaborative workspaces in a single place.
 - 🌐 **[OnionLand Search](https://onionland.live)** Onionland Search is a deep-web search engine that indexes Tor onion services.

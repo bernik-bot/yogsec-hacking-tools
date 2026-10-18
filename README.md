@@ -378,6 +378,7 @@ The [Cybersecurity Bootcamp](https://www.academy.evolvesecurity.com/cybersecurit
 - 🐍 [**SQLmap**](https://github.com/sqlmapproject/sqlmap) - Automated SQL injection tool.
 - ⚙️ [**Quttera Website Security API**](https://quttera.com/quttera-anti-malware-api-help) - REST API for website malware detection, blacklist and reputation checks, SSL and port analysis, website integrity monitoring, and security assessment with compliance mapping.
 - 📜 [**Wappalyzer**](https://www.wappalyzer.com/) - Identify technologies on websites.
+- 🔎 [**Vulnify**](https://vulnify.app/) - Web application security scanner for identifying vulnerabilities, security misconfigurations, and OWASP Top 10 risks with actionable security insights.
 - 🧑‍💻 [**Dirb**](https://gitlab.com/kalilinux/packages/dirb) - Web content scanner.
 - 📂 [**Gobuster**](https://github.com/OJ/gobuster) - Directory and DNS brute-forcing.
 - 🔍 [**Nikto**](https://github.com/sullo/nikto) - Web server vulnerability scanner.

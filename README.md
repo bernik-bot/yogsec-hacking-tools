@@ -372,6 +372,7 @@ The [Cybersecurity Bootcamp](https://www.academy.evolvesecurity.com/cybersecurit
 
 ## Web Application Analysis
 
+- 🌐 [**WebSentry**](https://websentry.dev/) - Website security scanner for detecting misconfigurations, analyzing SSL/TLS, security headers, CSP, CORS, DNS, and vulnerable JavaScript libraries, with actionable security insights.
 - 🧑‍💻 [**Burp Suite**](https://portswigger.net/burp) - Web security testing toolkit.
 - 🕵️ [**OWASP ZAP**](https://www.zaproxy.org/) - Open-source web application scanner.
 - 🐍 [**SQLmap**](https://github.com/sqlmapproject/sqlmap) - Automated SQL injection tool.

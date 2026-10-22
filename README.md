@@ -169,6 +169,8 @@ The [Cybersecurity Bootcamp](https://www.academy.evolvesecurity.com/cybersecurit
 - 🌍 **[BuiltWith](https://builtwith.com/)** - Website technology lookup and analysis.
 - 🏛️ **[StackScan](https://www.stackscan.com/?via=yogsec)** - Website technology lookup and asset footprint search.
 
+---
+
 
 ## Dark Web & OSINT
 
@@ -198,6 +200,8 @@ The [Cybersecurity Bootcamp](https://www.academy.evolvesecurity.com/cybersecurit
 - 🔭 **[Shodan](https://www.shodan.io/)** - Search engine for Internet-connected devices, exposing services, banners, and geolocation.
 - 🎭 **[Spoof Me](https://spoof-me.com/)** - Chrome/Firefox extension that switches the browser identity of a research profile (user agent, language, timezone, screen size) and flags pages that read fingerprinting signals.
 
+---
+
 
 ## Threat Intelligence
 
@@ -226,6 +230,9 @@ The [Cybersecurity Bootcamp](https://www.academy.evolvesecurity.com/cybersecurit
 - 📚 **[awesome-threat-intelligence](https://github.com/hslatman/awesome-threat-intelligence)** - Curated list of threat intelligence resources, feeds, frameworks, and tools maintained by the community.
 - 🗂️ **[threat-intel (GitHub)](https://github.com/phutran1210dev/threat-intel)** - Real-time threat intelligence aggregation and visualization platform with IOC tracking, threat actor profiling, Elasticsearch/Kibana dashboards, and automated alert generation from MISP, OTX, VirusTotal, and Shodan.
 
+---
+
+
 
 ## Wireless Attacks
 
@@ -246,6 +253,8 @@ The [Cybersecurity Bootcamp](https://www.academy.evolvesecurity.com/cybersecurit
 - 🦈 **[Wireshark](https://www.wireshark.org/)** - Network protocol analyzer that can be used to inspect 802.11 frames and understand wireless traffic during assessments.
 - 📻 **[HackRF One](https://greatscottgadgets.com/hackrf/)** - Open-source Software Defined Radio (SDR) platform for wireless experimentation, including capturing and transmitting signals across a wide frequency range.
 - 🔵 **[BlueZ](http://www.bluez.org/)** - Official Linux Bluetooth protocol stack, providing the core tools for Bluetooth device discovery and testing.
+
+---
 
 
 ## Telecom & 5G Security
@@ -271,6 +280,8 @@ The [Cybersecurity Bootcamp](https://www.academy.evolvesecurity.com/cybersecurit
 - 📡 **[USRP B210](https://www.ettus.com/all-products/ub210-kit/)** - Software Defined Radio hardware used in over-the-air baseband exploitation research and 5G security testing setups.
 - 🛰️ **[Awesome Cellular Hacking](https://github.com/W00t3k/Awesome-Cellular-Hacking)** - Curated list of cellular security research, tools, papers, and resources covering 2G through 5G, baseband hacking, IMSI catchers, and satellite-cellular integration.
 
+---
+
 
 ## Satellite & RF Security
 
@@ -292,6 +303,8 @@ The [Cybersecurity Bootcamp](https://www.academy.evolvesecurity.com/cybersecurit
 - 📻 **[TBS5927](https://www.tbsdtv.com/products/tbs5927-dvb-s2-tv-tuner-usb.html)** - USB DVB-S2 satellite receiver used with RAW data handling patches for capturing satellite transponder data for security research and IP traffic extraction.
 - 🛜 **[HackRF and RTL-SDR Satellite Scanning Guide](https://github.com/palacita135/HackRF-and-RTL-SDR-to-scan-satellite-signals)** - Step-by-step guide covering hardware selection, software setup, satellite frequency tracking, signal reception, and decoding for weather, amateur radio, and communications satellites.
 - 🎓 **[HTB SATCOM Security Essentials](https://ctf.hackthebox.com/pack/satcom-security-essentials)** - Hands-on CTF pack covering orbital mechanics, RF signal analysis, CCSDS protocols, DVB-S2 demodulation, satellite firmware reverse engineering, and ground station compromise.
+
+---
 
 
 ## Network Security
@@ -317,6 +330,7 @@ The [Cybersecurity Bootcamp](https://www.academy.evolvesecurity.com/cybersecurit
 - 🧰 **[Malcolm](https://github.com/cisagov/Malcolm)** - Powerful, easily deployable network traffic analysis tool suite for full packet capture artifacts, Zeek logs, and Suricata alerts.
 - 🛡️ **[Artillery](https://github.com/trustedsec/artillery)** - Blue team tool designed to protect Linux and Windows systems through multiple defensive methods.
 
+---
 
 
 ## Sniffing & Spoofing
@@ -342,6 +356,7 @@ The [Cybersecurity Bootcamp](https://www.academy.evolvesecurity.com/cybersecurit
 - 💻 **[Snoopy](https://github.com/marooned/snoopy)** - Sniffing & spoofing tool focused on DNS & HTTP traffic.
 - 📡 **[Snort](https://www.snort.org/)** - Open-source network intrusion detection & prevention system.
 
+---
 
 
 ## Vulnerability Analysis
@@ -369,6 +384,7 @@ The [Cybersecurity Bootcamp](https://www.academy.evolvesecurity.com/cybersecurit
 - 🧑‍💻 **[ScoutSuite](https://github.com/nccgroup/ScoutSuite)** - Multi-cloud security auditing tool.
 - 🧑‍💻 **[CloudSploit](https://github.com/aquasecurity/cloudsploit)** - AWS security auditing tool.
 
+---
 
 
 ## Web Application Analysis
@@ -398,6 +414,8 @@ The [Cybersecurity Bootcamp](https://www.academy.evolvesecurity.com/cybersecurit
 - 🧑‍💻 [**Unfurl**](https://github.com/tomnomnom/unfurl) - Extract URLs and data from URLs.
 - 📂 [**Dirsearch**](https://github.com/maurosoria/dirsearch) - A fast and powerful scanner that uses brute-force to find hidden directories and files on web servers. It discovers inaccessible content with customizable wordlists.
 
+---
+
 
 ## Mobile Security
 
@@ -420,6 +438,8 @@ The [Cybersecurity Bootcamp](https://www.academy.evolvesecurity.com/cybersecurit
 - 🏗️ **[blutter](https://github.com/worawit/blutter)** - Flutter application reverse engineering tool that extracts Dart code and function signatures from snapshot files (libapp.so) in compiled Flutter apps.
 - ⚛️ **[hermes-dec](https://github.com/P1sec/hermes-dec)** - Decompiler for Hermes bytecode (.hbc files) used in React Native apps, converting bytecode back to readable JavaScript.
 
+---
+
 
 ## Cloud Security
 
@@ -436,6 +456,8 @@ The [Cybersecurity Bootcamp](https://www.academy.evolvesecurity.com/cybersecurit
 - 🟠 **[Tenable Cloud Security](https://www.tenable.com/products/tenable-cloud-security)** - Identity-intelligent cloud security platform exposing and closing security gaps caused by misconfigurations, risky entitlements, and vulnerabilities, pinpointing toxic combinations of risk with guided remediations and code snippets.
 - 🐙 **[Orca Security](https://orca.security/)** - Agentless cloud security and compliance platform providing asset inventory, vulnerability management, threat detection, and risk assessment across public cloud environments.
 - 📊 **[InsightCloudSec](https://www.rapid7.com/products/insightcloudsec/)** - Continuous security and compliance monitoring across public cloud environments with automated discovery, policy enforcement, and real-time risk identification for cloud infrastructure.
+
+---
 
 
 ## Container & Kubernetes Security
@@ -458,6 +480,8 @@ The [Cybersecurity Bootcamp](https://www.academy.evolvesecurity.com/cybersecurit
 - 🛠️ **[Kubeaudit](https://github.com/Shopify/kubeaudit)** - Audit tool for Kubernetes clusters detecting misconfigurations and non-compliance with best practices, tailored for Red Hat OpenShift with extensible custom audits and NetworkPolicy analysis.
 - 🧹 **[NodeAgent](https://github.com/kubescape/node-agent)** - Kubescape's runtime security agent using eBPF and Inspektor Gadget for process execution monitoring, file integrity checking, network tracing, SBOM generation, and CEL-based detection rules for threats like crypto mining and container escapes.
 
+---
+
 
 ## Supply Chain Security
 
@@ -478,6 +502,7 @@ The [Cybersecurity Bootcamp](https://www.academy.evolvesecurity.com/cybersecurit
 - 🔬 **[Grype](https://github.com/anchore/grype)** - An SBOM-first vulnerability scanner for container images and filesystems from Anchore, featuring threat prioritization with EPSS scores and CISA KEV indicators for supply chain risk assessment.
 - 📦 **[Syft](https://github.com/anchore/syft)** - A CLI tool and library for generating Software Bills of Materials (SBOMs) from container images and filesystems, supporting CycloneDX and SPDX formats.
 
+---
 
 
 ## Password Attacks
@@ -503,6 +528,8 @@ The [Cybersecurity Bootcamp](https://www.academy.evolvesecurity.com/cybersecurit
 - 🧑‍💻 **[CrackMapExec](https://github.com/byt3bl33d3r/CrackMapExec)** - A post-exploitation tool for automating credential validation.
 - 🕵️‍♀️ **[SudoKiller](https://github.com/TH3xACE/SudoKiller)** - A tool for privilege escalation that can be used for password cracking in Unix-based systems.
 
+---
+
 
 ## Social Engineering Tools
 
@@ -526,6 +553,8 @@ The [Cybersecurity Bootcamp](https://www.academy.evolvesecurity.com/cybersecurit
 - 🎯 [**SocialBox**](https://github.com/samsesh/SocialBox) - Brute-force social media hacking toolkit.
 - 🧑‍💻 [**XPhisher**](https://github.com/htr-tech/xphisher) - Advanced phishing tool with inbuilt tunneling.
 - 🌐 [**CredSniper**](https://github.com/ustayready/CredSniper) - Phishing framework with two-factor authentication bypass support.
+
+---
 
 
 ## Exploitation Tools
@@ -551,6 +580,8 @@ The [Cybersecurity Bootcamp](https://www.academy.evolvesecurity.com/cybersecurit
 - 🧑‍💻 [**Fuzzbunch**](https://github.com/fuzzbunch/fuzzbunch) - NSA’s exploit framework (part of the Shadow Brokers leak).
 - 🛠️ [**CrackMapExec**](https://github.com/byt3bl33d3r/CrackMapExec) - Swiss army knife for post-exploitation in Windows environments.
 
+---
+
 
 ## Binary Exploitation
 
@@ -569,6 +600,8 @@ The [Cybersecurity Bootcamp](https://www.academy.evolvesecurity.com/cybersecurit
 - 🎓 **[picoCTF Binary Exploitation Roadmap](https://picoctfsolutions.com/posts/binary-exploitation-roadmap)** - Structured learning path from foundations (assembly, gdb, pwntools) through stack smashing, mitigations, ROP, and heap exploitation.
 - 🧰 **[CTF Tools](https://github.com/zardus/ctf-tools)** - Setup scripts for security research tools commonly used in binary exploitation and CTF competitions.
 - ⚙️ **[LearnPwn](https://github.com/Adamkadaban/LearnPwn)** - Sample problems and solutions for learning binary exploitation with progressive difficulty.
+
+---
 
 
 ## Reverse Engineering
@@ -594,6 +627,8 @@ The [Cybersecurity Bootcamp](https://www.academy.evolvesecurity.com/cybersecurit
 - 🧑‍💻 [**APKTool**](https://github.com/iBotPeaches/Apktool) - Decompile and rebuild Android APKs.
 - 🔓 [**JEB Decompiler**](https://www.pnfsoftware.com/jeb/) - Commercial decompiler for Android and other platforms.
 
+---
+
 
 ## Reverse Engineering Hardware
 
@@ -613,6 +648,8 @@ The [Cybersecurity Bootcamp](https://www.academy.evolvesecurity.com/cybersecurit
 - 📡 **[Ubertooth One](https://ubertooth.readthedocs.io/)** - Open-source Bluetooth monitoring and experimentation platform, useful for wireless protocol reverse engineering.
 - 🕷️ **[JTAGenum](https://github.com/cyphunk/JTAGenum)** - Arduino-compatible JTAG pin scanning tool for enumerating instruction registers and discovering undocumented instructions.
 
+---
+
 
 ## Hardware Hacking
 
@@ -631,6 +668,8 @@ The [Cybersecurity Bootcamp](https://www.academy.evolvesecurity.com/cybersecurit
 - 🐰 **[Bash Bunny](https://hak5.org/)** - Advanced automation and attack payload platform supporting USB HID, storage, and network attacks.
 - 🎣 **[WiFi Pineapple](https://hak5.org/)** - Portable wireless auditing platform for detecting rogue access points, capturing packets, and emulating wireless attack scenarios.
 - 🐊 **[Key Croc](https://hak5.org/)** - Stealth USB keystroke logger disguised as a keyboard passthrough, with payload triggering and remote shell access.
+
+---
 
 
 ## IoT & Embedded Security
@@ -669,6 +708,8 @@ The [Cybersecurity Bootcamp](https://www.academy.evolvesecurity.com/cybersecurit
 - 🧪 **[checksec](https://github.com/slimm609/checksec.sh)** - Binary hardening inspection tool used to check embedded binaries for NX, ASLR, stack canaries, and other security mitigations.
 - 🖥️ **[QEMU](https://www.qemu.org/)** - Emulation platform used with qemu-mips and qemu-mipsel for running extracted embedded binaries in controlled environments for dynamic analysis.
 
+---
+
 
 ## Automotive Security
 
@@ -687,6 +728,8 @@ The [Cybersecurity Bootcamp](https://www.academy.evolvesecurity.com/cybersecurit
 - 🧰 **[ICSim (Instrument Cluster Simulator)](https://github.com/zombieCraig/ICSim)** - CAN bus simulator that emulates a vehicle instrument cluster for safe, legal testing of CAN injection, replay, and reverse engineering techniques without requiring physical vehicle access.
 - 📊 **[canbus-toolbox](https://github.com/hexsecs/awesome-automotive-security)** - Curated collection of automotive security resources, papers, and tools maintained by the security community, covering CAN bus analysis, ECU exploitation, and vehicle penetration testing methodologies.
 - 🎯 **[Project TEMPA v2](https://media.ccc.de/v/project-tempa-v2-getting-phon-e-key-again-with-tesla-s-phone-as-a-key-technology)** - Research toolkit and offensive tools for testing Tesla's Phone-as-a-Key BLE protocol, including VINTAG for recovering Vehicle Identification Numbers from BLE advertisements without pairing.
+
+---
 
 
 ## ICS/SCADA Security
@@ -715,6 +758,8 @@ The [Cybersecurity Bootcamp](https://www.academy.evolvesecurity.com/cybersecurit
 - 🏗️ **[GRFICSv3](https://github.com/Fortiphyd/GRFICSv3)** - Free and open-source OT security lab with realistic networking and 3D process simulation, featuring PLCs, HMIs, engineering workstations, Kali Linux attacker tools, MITRE Caldera, Suricata IDS, and optional Wazuh SIEM for comprehensive ICS security training.
 - 🔬 **[IoT Security Audit Tool](https://github.com/GarethMSheldon/IoT-Security-Audit-Tool)** - Python-based security assessment toolkit supporting 23+ industrial protocols with concurrent scanning, default credential testing on HTTP/HTTPS interfaces, and risk scoring aligned with IEC 62443 and NIST SP 800-82.
 
+---
+
 
 ## Game Hacking
 
@@ -729,6 +774,8 @@ The [Cybersecurity Bootcamp](https://www.academy.evolvesecurity.com/cybersecurit
 - 🎯 **[ps5dbg-scanner](https://pypi.org/project/ps5dbg-scanner/)** - Cross-platform "Cheat Engine for PS5" built on the ps5dbg library, supporting value scanning, freeze/edit operations, and server-resident turbo scanning for jailbroken PlayStation 5 consoles.
 - 🔬 **[ReClass.NET-MCP](https://github.com/NateWeav/ReClass.NET-MCP)** - MCP integration for ReClass.NET that exposes memory read/write, class/node management, and process inspection to AI coding assistants for automated game memory analysis.
 - 🛠️ **[Cheat Engine Linux (CEServer)](https://github.com/cheat-engine/cheat-engine)** - Server component enabling Cheat Engine to connect to remote Linux, Android, and other platforms for cross-device game memory scanning and manipulation.
+
+---
 
 
 ## Malware Development
@@ -764,6 +811,8 @@ The [Cybersecurity Bootcamp](https://www.academy.evolvesecurity.com/cybersecurit
 - 🧪 **[maldev-for-dummies](https://github.com/chvancooten/maldev-for-dummies)** - Beginner-friendly malware workshop covering fundamentals of offensive tooling development.
 - 🔬 **[DarkWidow](https://github.com/reveng007/DarkWidow)** - Advanced payload with indirect dynamic syscalls, SSN sorting via modified TartarusGate approach, and remote process injection via APC Early Bird technique.
 
+---
+
 
 ## Malware Analysis
 
@@ -787,6 +836,8 @@ The [Cybersecurity Bootcamp](https://www.academy.evolvesecurity.com/cybersecurit
 - 🐍 **[FLOSS](https://github.com/mandiant/flare-floss)** - Mandiant's FLARE Obfuscated String Solver that automatically extracts and deobfuscates strings from malware binaries, defeating common obfuscation techniques like stack strings and encrypted strings.
 - 📚 **[awesome-malware-analysis](https://github.com/brandonhimpfen/awesome-malware-analysis)** - Curated list of 400+ tools, resources, labs, and communities for analyzing, dissecting, and understanding malicious software, organized by category including static analysis, dynamic analysis, memory forensics, and threat intelligence.
 - 🧪 **[oletools](https://github.com/decalage2/oletools)** - Python tools for analyzing Microsoft OLE2 files including Office documents and MSI files, essential for analyzing malicious macros, embedded objects, and document-based malware.
+
+---
 
 
 ## AI & Machine Learning Security
@@ -816,6 +867,8 @@ The [Cybersecurity Bootcamp](https://www.academy.evolvesecurity.com/cybersecurit
 - 🐍 **[PIMap](https://github.com/cyberark/PIMap)** - Automated black-box prompt injection scanner described as "sqlmap for LLMs," with 8 attack modules, 33 payloads, and HTML report generation for systematic prompt injection testing.
 - 🧬 **[Vulcan](https://genai.owasp.org/ai-security-solutions-landscape/)** - LLM risk and vulnerability testing solution from AIFT enabling AI project teams to perform automatic red teaming at scale, addressing the full spectrum of OWASP LLM Top 10 risks.
 
+---
+
 
 ## Red Team / Offensive
 
@@ -833,6 +886,8 @@ The [Cybersecurity Bootcamp](https://www.academy.evolvesecurity.com/cybersecurit
 - 🦊 **[Rubeus](https://github.com/GhostPack/Rubeus)** - C# toolset for raw Kerberos interaction and abuse, supporting Kerberoasting, AS-REP Roasting, ticket manipulation, and delegation abuse, leaving detectable events such as 4769 and 4768 with specific encryption types.
 - 🔑 **[Mimikatz](https://github.com/gentilkiwi/mimikatz)** - The most well-known Windows credential extraction tool, capable of extracting plaintext passwords, NTLM hashes, and Kerberos tickets from LSASS memory, with countermeasures including Credential Guard, RunAsPPL, and Sysmon Event ID 10.
 
+---
+
 
 ## Purple Team
 
@@ -848,6 +903,8 @@ The [Cybersecurity Bootcamp](https://www.academy.evolvesecurity.com/cybersecurit
 - 🎯 **[Invoke-AtomicRedTeam](https://github.com/redcanaryco/invoke-atomicredteam)** - PowerShell module for executing Atomic Red Team tests, automating standardized, reproducible execution of 1,000+ ATT&CK techniques from a PowerShell console. Documentation is well-organized with clear instructions for installation, execution, and logging, though the wiki format is less polished than Read the Docs.
 - 📚 **[Practical Purple Teaming (Book)](https://ebooks.mpdl.mpg.de/ebooks/Record/EB002363926/Description)** - Comprehensive guide to designing purple team exercises that produce measurable improvements, covering adversary emulation with Atomic Red Team, MITRE Caldera, and Mythic, telemetry collection and coverage analysis using open source platforms, lab automation with Splunk's Attack Range, and building a sustainable cross-functional purple teaming function.
 - 🐉 **[Kali Autopilot](https://www.kali.org/tools/kali-autopilot/)** - Tool from Kali Linux for developing automatic attack scripts for red and purple teaming, primarily intended for creating scripts that attack vulnerable machines in the Kali Purple platform for detection and response training.
+
+---
 
 
 ## Blue Team / Defense
@@ -867,6 +924,8 @@ The [Cybersecurity Bootcamp](https://www.academy.evolvesecurity.com/cybersecurit
 - 🕵️ **[Mimikatz](https://github.com/gentilkiwi/mimikatz)** - Credential extraction tool that defenders use in lab environments to validate whether LSA protection and Credential Guard are properly configured to prevent credential dumping.
 - 🔐 **[Credential Guard](https://learn.microsoft.com/en-us/windows/security/identity-protection/credential-guard/)** - Windows security feature that isolates LSASS secrets using virtualization-based security, making credential extraction significantly harder and serving as a key blue team defensive control.
 - 📋 **[LAPS (Local Administrator Password Solution)](https://learn.microsoft.com/en-us/windows-server/identity/laps/laps-overview)** - Microsoft solution for managing local administrator passwords on domain-joined computers, enforcing unique passwords and limiting lateral movement opportunities.
+
+---
 
 
 ## Threat Hunting
@@ -892,6 +951,8 @@ The [Cybersecurity Bootcamp](https://www.academy.evolvesecurity.com/cybersecurit
 - 🎯 **[Splunk Attack Range](https://github.com/splunk/attack_range)** - Framework for creating automated attack labs that deploys Windows environments with Active Directory, executes attacks with Atomic Red Team, and collects logs in Splunk for generating realistic hunting datasets.
 - 📊 **[Awesome Threat Detection](https://github.com/0x4D31/awesome-threat-detection)** - Meta-list of detection and hunting resources including tools, papers, presentations, blogs, and datasets, serving as a starting point for discovering additional hunting resources.
 
+---
+
 
 ## Intrusion Detection & Prevention
 
@@ -908,6 +969,8 @@ The [Cybersecurity Bootcamp](https://www.academy.evolvesecurity.com/cybersecurit
 - 🧪 **[IDS-Defender](https://github.com/salhabheba-cyber/IDS-Defender)** - Educational IDS/IPS deployment project using Snort 3 and Suricata on Kali Linux, with practical attack simulation using Hydra (SSH brute force), Nmap (port scan), and SQLmap (SQL injection) to validate detection rules in a controlled lab environment.
 - 📚 **[IDS/IPS Deployment with Snort and Wireshark](https://github.com/eric-lgonz/IDS-IPS-Deployment-and-Traffic-Analysis-with-Snort-and-Wireshark)** - Step-by-step walkthrough for deploying and configuring Snort 3 on Kali Linux, capturing and analyzing network traffic with Wireshark, creating custom detection rules based on known attack patterns, and automating alerts for suspicious behavior.
 - 🔄 **[snort2lua](https://www.kali.org/tools/snort/)** - Conversion utility included with Snort and Suricata that converts Snort 2.x rules and configuration to Snort 3 Lua format, facilitating migration and rule modernization. Used during the Snort-to-Suricata migration process since Suricata supports Snort rule syntax.
+
+---
 
 
 ## SIEM & Log Analysis
@@ -927,6 +990,8 @@ The [Cybersecurity Bootcamp](https://www.academy.evolvesecurity.com/cybersecurit
 - 🔴 **[LogRhythm SIEM](https://logrhythm.com/)** - Platform updates focused on security, performance, and stability. Version 7.23 updated Data-Indexer Java Corretto JRE to 8.0.472, Web-Indexer Java Corretto JDK to 21.0.9, .NET 8 Core to 8.0.22, Grafana to 12.3.0, and Go to 1.24.2 for Case API. CentOS 7 and RHEL 7 have reached end-of-life for Data Indexer support, with customers advised to upgrade to Rocky Linux or RHEL 9. The CrowdStrike Smart Response Plugin issue preventing endpoint connections has been resolved, and the SentinelOne processing policy now correctly parses the response field.
 - ⚡ **[CrowdStrike Falcon Next-Gen SIEM](https://www.crowdstrike.com/)** - Positioned as a Leader in the IDC MarketScape Worldwide SIEM 2026 assessment. Leverages an index-free design powered by the Falcon LogScale engine, enabling lightning-fast searches across expansive retention windows. Native endpoints, identity, and cloud logs are piped directly without re-ingest fees, driving significant reduction in overall TCO. The Agentic SOC announced at Fal.Con 2026 includes coordinated investigations where Charlotte AI sends domain agents to work investigations in parallel, a shared context layer built on Enterprise Graph, certified data pipelines that can cut data storage costs by up to 50 percent, and Charlotte Agentic SOAR with configurable autonomy levels from human-in-the-loop approval to fully autonomous execution.
 
+---
+
 
 ## Firewall & Perimeter Security
 
@@ -942,6 +1007,8 @@ The [Cybersecurity Bootcamp](https://www.academy.evolvesecurity.com/cybersecurit
 - 🔍 **[VyOS](https://vyos.io/)** - Open-source network operating system providing routing alongside firewall features, using a command-line configuration model similar to Juniper or Cisco rather than a web-managed appliance interface. Suited for network engineers who need advanced routing capabilities combined with firewall functionality.
 - 🐧 **[Portmaster](https://safing.io/portmaster/)** - PC-based firewall suite from Safing that hooks into the network stack via a WFP kernel driver on Windows and nfqueue/eBPF on Linux, making every packet visible and stoppable. Provides a live scrolling list of every application's connections and destinations, intercepts stray DNS queries and reroutes them through DoT or DoH resolvers with filter lists to block ads, trackers, and phishing. Core firewall and filtering are free.
 - 🪟 **[Fort Firewall](https://github.com/tnodir/fort)** - Windows-only open-source firewall built on the Windows Filtering Platform, providing app groups, wildcard path matching for folder-level blocking, and rate limiting. Excels at distinguishing individual services sharing svchost.exe, allowing one specific service to be blocked without disrupting the rest — a scenario where Windows Defender's default per-app approach fails.
+
+---
 
 
 ## Endpoint Security
@@ -963,6 +1030,8 @@ The [Cybersecurity Bootcamp](https://www.academy.evolvesecurity.com/cybersecurit
 - 🔬 **[Qualys Endpoint Detection and Response](https://www.qualys.com/)** - Rated Innovative in the ISG Buyers Guide 2026 and achieved Leader status in one category. Integrates tightly with Qualys' vulnerability management and compliance platform, making it attractive for organizations already using Qualys for security assessment.
 - 🧪 **[Sentinel Antivirus](https://github.com/mukti-sys/sentinel-antivirus)** - Lightweight open-source antivirus engine for Windows with YARA scanning, PE ML classifier, and kernel minifilter driver. Includes an interactive GUI dashboard, headless CLI scanner, and dynamic sandbox analysis with pure in-memory emulation under 100ms with zero host risk. The hybrid analysis mode runs fast emulation first and falls back to detonation if results are ambiguous. Ships with a 342-test unit suite and standalone binary builds for Windows, Linux, and macOS.
 
+---
+
 
 ## Incident Response
 
@@ -981,6 +1050,8 @@ The [Cybersecurity Bootcamp](https://www.academy.evolvesecurity.com/cybersecurit
 - 💿 **[Autopsy](https://github.com/sleuthkit/autopsy)** - Open-source disk forensics platform providing a complete GUI for analyzing E01, raw, and VHD disk images with modules for file carving, keyword search, timeline generation, hash matching, web artifacts, and email analysis. Positioned as the open-source alternative to EnCase and FTK for full disk forensic investigations.
 - 🎯 **[Magnet AXIOM Cyber](https://www.magnetforensics.com/)** - DFIR platform for investigating cyber incidents across endpoints and cloud environments, supporting Windows, macOS, and Linux with cloud deployment on AWS and Azure. Features remote data collection from off-network endpoints, data visualization showing artifact connections, and VirusTotal integration for threat scoring . Supports mobile data through Magnet Verakey and other ecosystem tools.
 - 🔬 **[EnCase](https://www.opentext.com/products/encase-forensic)** - Enterprise and law enforcement forensic suite for court-admissible evidence handling with structured workflows, supporting Mac, Windows, and Linux investigation, Verakey mobile data extraction, remote data collection, optical character recognition for text extraction from images and PDFs, and AI/ML-powered content identification . Deployed on-premises or as managed solution for controlled environments.
+
+---
 
 
 ## Wireless Attacks
@@ -1006,6 +1077,8 @@ The [Cybersecurity Bootcamp](https://www.academy.evolvesecurity.com/cybersecurit
 - 📶 [**NetStumbler**](http://www.netstumbler.com/) - Wi-Fi scanner for Windows
 - 🔒 [**Wi-Fi Pineapple**](https://github.com/securestate/wifipineapple) - Wireless attack platform by Hak5
 
+---
+
 
 ## Forensics Tools
 
@@ -1030,6 +1103,8 @@ The [Cybersecurity Bootcamp](https://www.academy.evolvesecurity.com/cybersecurit
 - 🧑‍💻 [**FTK Imager**](https://accessdata.com/products-services/ftk-imager) - Disk imaging and evidence preview tool.
 - 🧑‍💻 [**Capstone**](https://www.capstone-engine.org/) - Disassembly framework for binary analysis.
 
+---
+
 
 ## Cryptography & Encryption
 
@@ -1047,6 +1122,8 @@ The [Cybersecurity Bootcamp](https://www.academy.evolvesecurity.com/cybersecurit
 - 🧅 **[CyberChef](https://gchq.github.io/CyberChef/)** - The "Cyber Swiss Army Knife" web application from GCHQ for encryption, encoding, compression, and data analysis. Provides a drag-and-drop interface for chaining operations including Base64, AES, RSA, hashing, and classical ciphers, with 36,000+ GitHub stars.
 - 📚 **[Cryptii](https://cryptii.com/)** - Web-based modular conversion, encoding, and encryption tool supporting classical ciphers (Caesar, Vigenère, substitution, transposition), modern ciphers (AES, RSA), and various encoding schemes.
 - 🔍 **[Dcode](https://www.dcode.fr/)** - Online cipher and code identification/decoding tool with extensive support for classical ciphers, modern cryptographic challenges, and CTF-oriented encoding analysis.
+
+---
 
 
 ## Privacy & Anonymity
@@ -1080,6 +1157,8 @@ The [Cybersecurity Bootcamp](https://www.academy.evolvesecurity.com/cybersecurit
 - 📦 **[7-Zip](https://7-zip.org/)** - Open-source file archiver with AES-256 encryption support, widely used for creating encrypted archives on Windows and cross-platform environments.
 - 🖥️ **[Qubes OS](https://www.qubes-os.org/)** - Security-focused desktop OS that compartmentalizes different activities into isolated VMs, preventing a compromise in one area from affecting others. Endorsed by Edward Snowden.
 
+---
+
 
 ## Stress Testing
 
@@ -1102,6 +1181,8 @@ The [Cybersecurity Bootcamp](https://www.academy.evolvesecurity.com/cybersecurit
 - 🔨 **[DDOS-Exploit](https://github.com/nemesis2020/DDOS-Exploit)** - Exploit kit for DDoS stress testing
 - 🛡️ **[Fudp](https://github.com/Toph-3r/fudp)** - A multi-threaded UDP flooder for stress testing
 - ⚡ **[BlackHAT](https://github.com/j3ssie/BlackHAT)** - A stress testing framework for web applications
+
+---
 
 
 ## Compliance & Auditing
@@ -1130,6 +1211,8 @@ The [Cybersecurity Bootcamp](https://www.academy.evolvesecurity.com/cybersecurit
 
 - 📋 **[Pavois](https://github.com/stephrobert/pavois)** - Effective Linux compliance and hardening tool over CINC/InSpec producing A-E grades with multi-standard mappings including CIS, ANSSI BP-028, NIST, PCI-DSS, and STIG. Generates tamper-evident evidence bundles with SLSA build provenance and OpenSSF Scorecard verification, supporting `cosign sign-blob` or `gpg --detach-sign` for auditor-opposable attestation. The `diff` command produces campaign reports with transition matrices showing failed→passed transitions, regressions, and grade deltas for audit evidence.
 
+---
+
 
 ## Risk Management
 
@@ -1148,6 +1231,8 @@ The [Cybersecurity Bootcamp](https://www.academy.evolvesecurity.com/cybersecurit
 - 🔬 **[MONARC](https://www.monarc.lu/)** - An open-source risk analysis tool that takes assets from inventory and mapping tools as objects of risk analysis, covering threats, vulnerabilities, and treatment. Part of a fully open-source ecosystem for cybersecurity that includes GLPI (asset inventory), Mercator (IS mapping), and Deming (ISO 27001 ISMS management).
 - 🐍 **[grc (OWASP Project)](https://owasp.org/www-project-grc/)** - A Python/web2py based GRC tool supporting COSO/ISO 31000/COBIT/NIST/CVSS3.1 standards, now moved to the OWASP project, suitable for organizations of any size needing IT risk management.
 - 🧪 **[OpenGRC](https://openrmf.io/)** - An open-source tool for governance, risk, and compliance management implementing OCEG principles. Best for smaller organizations or teams needing a lightweight GRC tool with risk assessment and management, policy management with document tracking, and integration with compliance frameworks.
+
+---
 
 
 ## Security Awareness & Training
@@ -1171,6 +1256,8 @@ The [Cybersecurity Bootcamp](https://www.academy.evolvesecurity.com/cybersecurit
 - 📡 **[RangeForce Community](https://www.rangeforce.com/)** - Simulated SOC environments using industry-standard tools including Splunk, Wireshark, and Suricata. Free interactive cloud-based community modules for learning and applying fundamental defensive skills step-by-step.
 - 🎯 **[LetsDefend](https://letsdefend.io/)** - Simulated SOC environment for learning SIEM tools, alert analysis, and real attack scenarios. Provides practical experience in the workflows and tools used by security operations center analysts.
 
+---
+
 
 ## CTF & Wargames
 
@@ -1189,6 +1276,8 @@ The [Cybersecurity Bootcamp](https://www.academy.evolvesecurity.com/cybersecurit
 - 🧩 **[CTFtime](https://ctftime.org/)** - Public directory and calendar of CTF competitions worldwide, serving as the central hub for discovering upcoming events and past competition archives.
 - 🛠️ **[CTFd](https://ctfd.io/)** - Open-source CTF platform for hosting your own competitions, widely used by educational institutions and organizations for running capture-the-flag events.
 - 📚 **[CTF Field Guide](https://trailofbits.github.io/ctf/)** - Comprehensive online book by Trail of Bits covering tools, techniques, and strategies for CTF competitions across all categories.
+
+---
 
 
 ## Security Research & Blogs
@@ -1234,6 +1323,8 @@ The [Cybersecurity Bootcamp](https://www.academy.evolvesecurity.com/cybersecurit
 - 🐧 **[The DFIR Report](https://thedfirreport.com/)** - Real-world incident response case studies with detailed timelines, IOCs, and attacker TTPs, essential for blue teamers and threat hunters.
 - 🔍 **[SANS ISC Diary](https://isc.sans.edu/)** - Daily handler diaries covering emerging threats, malware analysis, and practical security guidance from the SANS Internet Storm Center.
 
+---
+
 
 ## Penetration Testing Distributions
 
@@ -1244,6 +1335,8 @@ The [Cybersecurity Bootcamp](https://www.academy.evolvesecurity.com/cybersecurit
 - **Kali Purple** - A defensive security variant of Kali that integrates SOC tooling, threat hunting capabilities, and detection engineering into the familiar Kali environment, bridging offensive and defensive operations.
 - **Commando VM** - Mandiant's Windows-based security distribution for penetration testers, providing a curated set of offensive tools in a Windows environment for red team engagements requiring native Windows tooling.
 - **REMnux** - A Linux toolkit for reverse-engineering and analyzing malicious software, providing a curated collection of free community-created tools in an Ubuntu-based distribution with Docker container support, widely used for malware analysis and incident response.
+
+---
 
 
 ## Scripting & Automation
@@ -1259,6 +1352,8 @@ The [Cybersecurity Bootcamp](https://www.academy.evolvesecurity.com/cybersecurit
 - 📊 **Threat Fusion** - Integrated SOAR framework that unifies multiple cybersecurity tools into a centralized platform, automating reconnaissance, vulnerability scanning, threat correlation, and risk assessment. Employs data fusion techniques to aggregate and normalize outputs from different tools, reducing redundancy and improving threat detection accuracy, with a risk scoring mechanism prioritizing vulnerabilities based on severity, exploitability, and potential impact. Provides interactive visualization dashboards and structured reports for efficient decision-making.
 - 🧪 **D-GEN-SOC** - Autonomous cyber defense framework combining Wazuh telemetry, TheHive incident coordination, and lightweight AI augmentation grounded in explainable automation. Uses a Python-based connector to forward Wazuh alerts to TheHive, with a local AI module summarizing alerts via Gemini 1.5's free-tier API for analyst and human-in-the-loop validation. Achieves a Mean Time to Detect of 84.83s and Wazuh→TheHive latency of 29.55s, demonstrating near-real-time detection and reliable SIEM-SOAR coordination, with improvements in MTTD (~53%), MTTR (~40%), and false-positive reduction (10%).
 - 🔌 **HexStrike-AI / MCP-Kali-Server** - Open-source penetration-specific components that accelerate integration of standardized security toolchains, emerging from the community to bridge AI agents with Kali Linux tooling.
+
+---
 
 
 ## Reporting Tools
@@ -1283,6 +1378,9 @@ The [Cybersecurity Bootcamp](https://www.academy.evolvesecurity.com/cybersecurit
 - 📄 [**SecReport**](https://github.com/Matir/secreport) - Report generation tool for pentesters.
 - 📋 [**PwnDoc**](https://github.com/pwndoc/pwndoc) - Pentest reporting tool with customizable templates.
 - 🧑‍💻 [**PenTest-Wiki**](https://github.com/nixawk/pentest-wiki) - Knowledge base for pentesting & reporting references.
+
+
+---
 
 
 ## Miscellaneous
@@ -1316,6 +1414,7 @@ The [Cybersecurity Bootcamp](https://www.academy.evolvesecurity.com/cybersecurit
 
 ---
 
+
 ## Cybersecurity Labs
 
 - 🌐 **[WebVerse Labs](https://webverselabs-pro.com/)** - Hands-on hacking labs, challenges, learning paths, and WebRanges.
@@ -1326,12 +1425,13 @@ The [Cybersecurity Bootcamp](https://www.academy.evolvesecurity.com/cybersecurit
 
 ---
 
+
 ## Contact Details
 
 Website - [https://yogsec.net](https://yogsec.net)
 Email - [admin@yogsec.net](admin@yogsec.net)
 LinkTree - [https://linktr.ee/abhinavsingwal](https://linktr.ee/abhinavsingwal)
-Bug Bounty Tips (Telegram Channel) - [https://t.me/bugbountyusa](https://t.me/bugbountyusa)
+Bug Bounty USA (Telegram Channel) - [https://t.me/bugbountyusa](https://t.me/bugbountyusa)
 LinkedIn - [https://www.linkedin.com/in/abhinavsingwal/](https://www.linkedin.com/in/abhinavsingwal/)
 Threads - [https://www.threads.com/@abhinav_singwal](https://www.threads.com/@abhinav_singwal)
-X - [https://x.com/yogsec](https://x.com/yogsec)
+x.com - [https://x.com/yogsec](https://x.com/yogsec)

@@ -1428,10 +1428,10 @@ The [Cybersecurity Bootcamp](https://www.academy.evolvesecurity.com/cybersecurit
 
 ## Contact Details
 
-Website - [https://yogsec.net](https://yogsec.net)
-Email - [admin@yogsec.net](admin@yogsec.net)
-LinkTree - [https://linktr.ee/abhinavsingwal](https://linktr.ee/abhinavsingwal)
-Bug Bounty USA (Telegram Channel) - [https://t.me/bugbountyusa](https://t.me/bugbountyusa)
-LinkedIn - [https://www.linkedin.com/in/abhinavsingwal/](https://www.linkedin.com/in/abhinavsingwal/)
-Threads - [https://www.threads.com/@abhinav_singwal](https://www.threads.com/@abhinav_singwal)
-x.com - [https://x.com/yogsec](https://x.com/yogsec)
+- Website - [https://yogsec.net](https://yogsec.net)
+- Email - [admin@yogsec.net](admin@yogsec.net)
+- LinkTree - [https://linktr.ee/abhinavsingwal](https://linktr.ee/abhinavsingwal)
+- Bug Bounty USA (Telegram Channel) - [https://t.me/bugbountyusa](https://t.me/bugbountyusa)
+- LinkedIn - [https://www.linkedin.com/in/abhinavsingwal/](https://www.linkedin.com/in/abhinavsingwal/)
+- Threads - [https://www.threads.com/@abhinav_singwal](https://www.threads.com/@abhinav_singwal)
+- x.com - [https://x.com/yogsec](https://x.com/yogsec)
